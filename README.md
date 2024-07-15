@@ -1,7 +1,11 @@
 # Thin-plate-spline-motion-model-ONNX-Reenactment
-Thin Plate Spline Motion Model - ONNX. Extended version for Video-2-Video and Video-2-Image portrait animation.
+Another extended version for Video-2-Video and Video-2-Image portrait animation.
 
-Code coming soon...
+Maybe outdated models... 
+
+Work in progress, some things to be added for better results.
+
+Only Vid2Vid for now.
 
 Some results:
 
