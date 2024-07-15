@@ -1,11 +1,11 @@
 # Thin-plate-spline-motion-model-ONNX-Reenactment
 Another extended version for Video-2-Video and Video-2-Image portrait animation.
 
-Maybe outdated models... 
-
-Work in progress, some things to be added for better results.
+Maybe outdated models... Work in progress, some things to be added for better results.
 
 Only Vid2Vid for now.
+
+Use driving video frontal face with not too much head movement for best results
 
 Some results:
 
