@@ -1,4 +1,13 @@
 # Thin-plate-spline-motion-model-ONNX-Reenactment
+EDIT: reenact_v02
+
+- removed face parsing, try to remove shoulder movement, set driving video to same fps as target video
+
+- --audio replaces target audio with driving audio. (will make it selectable next update)
+
+- still work in progress
+
+
 Another extended version for Video-2-Video and Video-2-Image portrait animation.
 
 Maybe outdated models... Work in progress, some things to be added for better results.
