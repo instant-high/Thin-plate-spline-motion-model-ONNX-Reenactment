@@ -1,0 +1,17 @@
+﻿--driving            path to driving video
+--target             path to target video
+--output             path to result video
+
+--target_audio       keep original audio
+--driving_audio      use driving audio
+
+--scale              default=10 (resize result, 10 for no changes, eg. 5 for half size)
+
+--crop_scale         default=1.15 (bbox around target head) 
+
+--tracking           (track/crop driving head. Not recommended in all cases)
+
+--animation_factor   default=1 (animation strength eg. 0.5 or -0.7)
+
+--enhancement        default=none (choices gpen)
+--blending           default=5 (amount of face enhancment, 0 - 10)    
