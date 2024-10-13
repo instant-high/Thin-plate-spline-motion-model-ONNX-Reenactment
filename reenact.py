@@ -64,7 +64,7 @@ if args.enhancement == 'gpen':
         
 def process_frame(model, img, size, crop_scale=1.0):
     try:
-        bboxes, kpss = model.detect(img,(256, 256), det_thresh=0.6)
+        bboxes, kpss = model.detect(img,(256, 256), det_thresh=0.3)
         if len(kpss) == 0:
             raise ValueError("No face detected")
         
