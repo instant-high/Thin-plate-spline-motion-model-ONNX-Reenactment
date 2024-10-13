@@ -4,7 +4,7 @@ Update 25.08.2024
 
 - Removed face parsing
 - Choose driving or target audio
-- Recode driving video to match target frame rate to keep driving audio in sync with target animation
+- Re-encode driving video to match target frame rate to keep driving audio in sync with target animation
 
 - Still work in progress
 
